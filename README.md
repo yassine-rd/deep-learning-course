@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-This repository contains my personal notes and Jupyter notebooks on Deep Learning Specialization course at the university [Haute-Alsace](https://www.uha.fr/en/index.html).
+This repository contains my personal notes and Jupyter notebooks on Deep Learning Specialization course at the [University Haute-Alsace](https://www.uha.fr/en/index.html).
 
 I'm enjoying every little bit of the course, hope you enjoy my notes too.
 
