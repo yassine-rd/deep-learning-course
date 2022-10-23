@@ -38,4 +38,4 @@ If you find any issues in these code examples, feel free to submit an Issue or P
 
 ## Questions ?
 
-Reach out to @yassine_rd_ on Twitter or feel free to contact contact yassine.rodani@gmail.com. :)
+Reach out to [@yassine_rd_](https://twitter.com/yassine_rd_) on Twitter or feel free to contact contact yassine.rodani@gmail.com. :)
